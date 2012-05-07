@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Email2faceWeb</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<%= yield %>
+  <footer>
+      <div id='menu'>
+        <a id="api"    href="https://github.com/Jarred-Sumner/Email2Face/wiki/Web-API-Usage">Web API</a>
+        <a class='separator'>|</a>
+        <a id="gem"  href="http://github.com/jarred-sumner/email2face#email2face">RubyGem</a>
+      </div>
+  </footer>
+</body>
+</html>

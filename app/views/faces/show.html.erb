@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Email:</b>
+  <%= @face.email %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%= @face.url %>
+</p>
+
+
+<%= link_to 'Edit', edit_face_path(@face) %> |
+<%= link_to 'Back', faces_path %>

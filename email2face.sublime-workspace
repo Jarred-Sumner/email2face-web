@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"config",
+				"configure_if_needed"
+			],
+			[
+				"lat",
+				"latLng"
+			],
+			[
+				"latLng",
+				"LatLng"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/assets/stylesheets/application.css.scss",
+			"settings":
+			{
+				"buffer_size": 1839,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/faces.css.scss",
+			"settings":
+			{
+				"buffer_size": 3361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/faces/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 656,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 86.0,
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Programming/email2face-web/app/models/face.rb",
+		"/E/Programming/email2face-web/app/assets/stylesheets/faces.css.scss",
+		"/E/Programming/email2face-web/app/assets/stylesheets/application.css.scss",
+		"/E/Programming/email2face-web/app/assets/javascripts/faces.js.coffee",
+		"/E/Programming/email2face-web/app/controllers/faces_controller.rb",
+		"/E/Programming/email2face-web/db/migrate/20120506044319_add_failed_to_faces.rb",
+		"/E/Programming/email2face-web/config/routes.rb",
+		"/E/Programming/email2face-web/config/initializers/facebook.rb",
+		"/E/Programming/email2face-web/Gemfile",
+		"/E/Programming/email2face-web/app/assets/stylesheets/application.css",
+		"/E/Programming/email2face-web/config/initializers/session_store.rb",
+		"/E/Programming/email2face-web/public/index.html",
+		"/E/Programming/email2face-web/test/performance/browsing_test.rb",
+		"/E/Programming/email2face/.gitignore",
+		"/E/Programming/email2face/README.md",
+		"/E/Programming/email2face/Rakefile",
+		"/E/Programming/email2face/VERSION",
+		"/E/Programming/email2face/Gemfile",
+		"/E/Programming/email2face/lib/email2face.rb",
+		"/E/Programming/email2face/LICENSE.txt",
+		"/E/Programming/email2face/lib/email2face/email2face.rb",
+		"/E/Programming/email2face/email2face.gemspec",
+		"/E/Programming/email2face/bin/email2face.rb",
+		"/E/Programming/email2face/bin/Sandvich",
+		"/E/Programming/email2face/bin/html",
+		"/E/Programming/EmailToFace/app/models/face.rb",
+		"/E/Programming/email2face/lib/Sandvich",
+		"/E/Programming/email2face/lib/Gemfile",
+		"/E/Programming/email2face/lib/Session.rb",
+		"/E/Programming/EmailToFace/config/initializers/capybara.rb",
+		"/E/Programming/EmailToFace/app/controllers/faces_controller.rb",
+		"/E/Programming/EmailToFace/config/routes.rb",
+		"/E/Programming/Email2Face/config.ru",
+		"/E/Programming/Email2Face/app.rb",
+		"/E/Programming/Email2Face/Gemfile",
+		"/E/Programming/Email2Face/html.html",
+		"/C/Program Files (x86)/Git/etc/profile",
+		"/E/Programming/Email2Face/Gemfile.rb",
+		"/E/Programming/Email2Face/.gitignore",
+		"/E/Programming/Email2Face/app/crawls/login_crawler.rb",
+		"/E/Programming/Email2Face/config/initializers/capybara.rb",
+		"/E/Programming/Email2Face/config/application.rb",
+		"/E/Programming/Email2Face/config/routes.rb",
+		"/E/Programming/ClientsOnAMap/app/assets/javascripts/initialize_maps.js",
+		"/E/Programming/ClientsOnAMap/db/schema.rb",
+		"/E/Programming/ClientsOnAMap/app/helpers/clients_helper.rb",
+		"/E/Programming/ClientsOnAMap/app/controllers/clients_controller.rb",
+		"/E/Programming/ClientsOnAMap/app/assets/javascripts/clients.js.coffee",
+		"/E/Programming/ClientsOnAMap/config/routes.rb",
+		"/E/Programming/ClientsOnAMap/app/models/contact.rb",
+		"/E/Programming/ClientsOnAMap/app/models/client.rb",
+		"/E/Programming/ClientsOnAMap/app/assets/stylesheets/application.css.scss",
+		"/E/Programming/ClientsOnAMap/app/assets/stylesheets/clients.css.scss",
+		"/E/Programming/ClientsOnAMap/db/migrate/20120428194948_add_distance_to_client.rb",
+		"/E/Programming/ClientsOnAMap/db/migrate/20120428194948_add_distance_to_user.rb",
+		"/E/Programming/ClientsOnAMap/db/migrate/20120427005112_devise_create_users.rb",
+		"/E/Programming/ClientsOnAMap/db/migrate/20120428193945_rename_address_to_full_address_in_client.rb",
+		"/E/Programming/ClientsOnAMap/Gemfile",
+		"/E/Programming/ClientsOnAMap/app/models/user.rb",
+		"/E/Programming/ClientsOnAMap/db/migrate/20120428192349_remove_address_and_city_and_state_from_users.rb",
+		"/E/Programming/ClientsOnAMap/app/views/layouts/application.html.erb",
+		"/E/Programming/ClientsOnAMap/app/views/clients/index.html.erb",
+		"/E/Programming/ClientsOnAMap/app/assets/javascripts/maps.js",
+		"/E/Programming/ClientsOnAMap/app/views/clients/_maps_api.html.erb",
+		"/C/Users/Administrator/Desktop/gmaps.html",
+		"/E/Programming/ClientsOnAMap/app/assets/javascripts/maps_loader.js.coffee",
+		"/E/Programming/ClientsOnAMap/app/assets/javascripts/maps.js.coffee",
+		"/E/Programming/ClientsOnAMap/app/assets/javascripts/application.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/Programming/ClientsOnAMap/db/migrate/20120427005150_create_clients.rb",
+		"/E/Programming/ClientsOnAMap/db/migrate/20120427005019_create_clients.rb",
+		"/E/Programming/Brainpickr/db/migrate/20120411212645_remove_city_and_client_id_and_user_id_from_location.rb",
+		"/E/Programming/Brainpickr/config/database.yml"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FILEPATH",
+			"jarred.sumner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"filepath"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/assets/stylesheets/application.css.scss",
+					"settings":
+					{
+						"buffer_size": 1839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1783,
+								1783
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 796.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/faces.css.scss",
+					"settings":
+					{
+						"buffer_size": 3361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2737,
+								2737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "app/views/faces/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								599,
+								599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"faces.css",
+				"app/assets/stylesheets/faces.css.scss"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"application.html.erb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"aplication.css",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"faces_controller",
+				"app/controllers/faces_controller.rb"
+			],
+			[
+				"face.rb",
+				"app/models/face.rb"
+			],
+			[
+				"add_fail",
+				"db/migrate/20120506044319_add_failed_to_faces.rb"
+			],
+			[
+				"facebook.rb",
+				"config/initializers/facebook.rb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"face.js.coffe",
+				"app/assets/javascripts/faces.js.coffee"
+			],
+			[
+				"faces.sss",
+				"app/assets/stylesheets/faces.css.scss"
+			],
+			[
+				"facebook",
+				"config/initializers/facebook.rb"
+			],
+			[
+				"index",
+				"app/views/faces/index.html.erb"
+			],
+			[
+				"application",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"email2",
+				"lib/email2face.rb"
+			],
+			[
+				"version",
+				"VERSION"
+			],
+			[
+				"",
+				"Rakefile"
+			],
+			[
+				"lic",
+				"LICENSE.txt"
+			],
+			[
+				"email2face",
+				"lib/email2face.rb"
+			],
+			[
+				"email2face.rb",
+				"lib/email2face/email2face.rb"
+			],
+			[
+				"email",
+				"lib/email2face.rb"
+			],
+			[
+				"gemsp",
+				"email2face.gemspec"
+			],
+			[
+				"rakefile",
+				"Rakefile"
+			],
+			[
+				"html",
+				"bin/html"
+			],
+			[
+				"sand",
+				"bin/Sandvich"
+			],
+			[
+				"s",
+				"bin/Sandvich"
+			],
+			[
+				"face.r",
+				"lib/email2face.rb"
+			],
+			[
+				"sandvich",
+				"lib/Sandvich"
+			],
+			[
+				"l",
+				"lib/email2face.rb"
+			],
+			[
+				"application.rb",
+				"config/application.rb"
+			],
+			[
+				"html.",
+				"html.html"
+			],
+			[
+				"config.ru",
+				"config.ru"
+			],
+			[
+				"app.rb",
+				"app.rb"
+			],
+			[
+				"capybara",
+				"config/initializers/capybara.rb"
+			],
+			[
+				"clients.js.coffee",
+				"app/assets/javascripts/clients.js.coffee"
+			],
+			[
+				"clients.js.coffe",
+				"app/assets/javascripts/clients.js.coffee"
+			],
+			[
+				"clients_helper",
+				"app/helpers/clients_helper.rb"
+			],
+			[
+				"clients_controller",
+				"app/controllers/clients_controller.rb"
+			],
+			[
+				"maps.js",
+				"app/assets/javascripts/initialize_maps.js"
+			],
+			[
+				"clients.js",
+				"app/assets/javascripts/clients.js.coffee"
+			],
+			[
+				"contact.rb",
+				"app/models/contact.rb"
+			],
+			[
+				"client.rb",
+				"app/models/client.rb"
+			],
+			[
+				"contact",
+				"app/models/contact.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"clients.css",
+				"app/assets/stylesheets/clients.css.scss"
+			],
+			[
+				"add_distance",
+				"db/migrate/20120428194948_add_distance_to_user.rb"
+			],
+			[
+				"create_users",
+				"db/migrate/20120427005112_devise_create_users.rb"
+			],
+			[
+				"rename",
+				"db/migrate/20120428193945_rename_address_to_full_address_in_client.rb"
+			],
+			[
+				"remove_",
+				"db/migrate/20120428192349_remove_address_and_city_and_state_from_users.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"map",
+				"app/assets/javascripts/initialize_maps.js"
+			],
+			[
+				"appli",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"_maps_api",
+				"app/views/clients/_maps_api.html.erb"
+			],
+			[
+				"applic",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"clients",
+				"app/assets/javascripts/clients.js.coffee"
+			],
+			[
+				"maps",
+				"app/assets/javascripts/maps.js"
+			],
+			[
+				"client.js.coffee",
+				"app/assets/javascripts/clients.js.coffee"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"client",
+				"app/models/client.rb"
+			],
+			[
+				"create_",
+				"db/migrate/20120427005150_create_clients.rb"
+			],
+			[
+				"creat_",
+				"db/migrate/20120427005019_create_clients.rb"
+			],
+			[
+				"remove",
+				"db/migrate/20120411212645_remove_city_and_client_id_and_user_id_from_location.rb"
+			],
+			[
+				"datab",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
