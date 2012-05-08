@@ -41,13 +41,14 @@ footer
     margin: 0 auto;
     margin-top: 5px;
     padding: 10px;
-    display: inline-block;
+    padding-bottom: 0px;
     width: auto;
     text-align: center;
     a
     {
       display: inline-block;
       padding: 3px;
+      padding-bottom: 0px;
       height: 45px;
       font-size: 12pt;
       color: darken(blue, 10%);
@@ -63,6 +64,12 @@ footer
       text-decoration: none !important;
     }
   }
+  #how-it-works
+  {
+    margin-top: -15px;
+    opacity: 0.4;
+  }
+
 }
 
 @import "faces";
